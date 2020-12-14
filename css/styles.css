@@ -120,7 +120,7 @@ ul {
 }
 
 .hard-skill-list {
-    margin-left: 180px;
+    display: inline-block;
 }
 
 .intro {

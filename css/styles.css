@@ -133,8 +133,9 @@ ul {
 }
 
 .profile-picture {
-    height: 10%;
-    width: 10%;
+    height: 15%;
+    width: 15%;
+    margin-bottom: 5%;
 }
 
 .skill-picture1 {

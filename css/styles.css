@@ -61,7 +61,7 @@ ul {
 
 .bottom-cloud {
     position: absolute;
-    left: 250px;
+    left: 210px;
     top: 500px;
 }
 
@@ -119,7 +119,7 @@ ul {
     color: #EAF6F6;
 }
 
-.hard-skill-list {
+.skill-list {
     display: inline-block;
 }
 
@@ -148,7 +148,6 @@ ul {
 .skill-picture2 {
     float: right;
     height: 25%;
-    margin-left: 30px;
     width: 25%;
 }
 
@@ -156,6 +155,13 @@ ul {
     margin: 100px auto 100px;
     width: 50%;
     text-align: left;
+}
+
+.mountain {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .subtitle {
@@ -169,10 +175,8 @@ ul {
 
 .top-cloud {
     position: absolute;
-    right: 300px;
+    right: 220px;
     top: 60px;
 }
-
-
 
 

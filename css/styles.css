@@ -30,6 +30,10 @@ h3 {
     color: #11999E;
 }
 
+h4 {
+    padding-top: 30px;
+}
+
 hr {
     border-style: dotted none none;
     border-color: #EAF6F6;
@@ -124,7 +128,7 @@ ul {
 }
 
 .intro {
-    width: 30%;
+    width: 40%;
     margin: auto;
 }
 
